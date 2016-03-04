@@ -43,9 +43,6 @@ TARGET_SPECIFIC_HEADER_PATH := $(LOCAL_PATH)/include
 # FIMG2D
 BOARD_USES_FIMGAPI_V4L2 := false
 
-# Graphics
-OVERRIDE_RS_DRIVER := libRSDriverArm.so
-
 # PowerHAL
 TARGET_POWERHAL_VARIANT := chagall
 
